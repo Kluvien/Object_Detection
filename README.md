@@ -60,3 +60,19 @@ if not os.path.isdir("UAS_Deteksi_Objek"):
 ```python
 !python /content/UAS_Deteksi_Objek/yolov7/detect.py --weights yolov7.pt --conf 0.5 --img-size 640 --source /content/UAS_Deteksi_Objek/yolov7/video1.mp4
 ```
+
+
+
+# Example of the Image and Video
+Image
+![1](https://github.com/user-attachments/assets/71bab86f-77b4-4f52-918d-8a0cb636a444)
+
+For the Video on a folder Example
+
+
+
+# The Result
+Image
+![1](https://github.com/user-attachments/assets/3413b05a-2047-45e7-9900-6608c7abb56c)
+
+For the Video on a folder Result
