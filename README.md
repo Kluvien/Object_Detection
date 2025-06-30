@@ -65,14 +65,16 @@ if not os.path.isdir("UAS_Deteksi_Objek"):
 
 # Example of the Image and Video
 Image
+
 ![1](https://github.com/user-attachments/assets/71bab86f-77b4-4f52-918d-8a0cb636a444)
 
-For the Video on a folder Example
+For the Video on a folder Contoh
 
 
 
 # The Result
 Image
+
 ![1](https://github.com/user-attachments/assets/3413b05a-2047-45e7-9900-6608c7abb56c)
 
-For the Video on a folder Result
+For the Video on a folder Hasil
